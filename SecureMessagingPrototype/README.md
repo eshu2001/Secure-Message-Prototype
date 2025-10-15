@@ -52,7 +52,7 @@ Introduce session key rotation to improve security over multiple messages.
 Support multiple messages with forward secrecy.
 Extend tamper detection to all messages automatically, not just a single test message.
 
-**How to Run**
+**How to Run**:
 **Make sure you have all required packages:**
 pip install pycryptodome cryptography sympy
 **Run tasks in order:**
